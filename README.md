@@ -1,2 +1,2 @@
-# Kayi Tribe
- It is video game project about Kayi Tribe.
+# Kayi Obasi
+ It is video game project about Kayi Obasi.
